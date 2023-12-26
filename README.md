@@ -36,6 +36,8 @@ https://youtu.be/SDJKsE_bv04?si=i7YecFsF-gFVF13L
 12. Open "upload.php", Right click and choose "PHP Server: Serve Project".
 13. Then go to ports and forward the port 3000.
 
+## You're all Set!
+That should give you an url to your private domain where you can access the html. Try uploading a document and it will start printing on the computer. Although i wouldn't recommend making it public since you are running a website on your computer there will be bound to have vulnerabilities. If you do want to make it public send the link to someone you trust.
 
    
  
