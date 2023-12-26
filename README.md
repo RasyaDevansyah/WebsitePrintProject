@@ -36,7 +36,7 @@ https://youtu.be/SDJKsE_bv04?si=i7YecFsF-gFVF13L
 12. Before running the website, search Command Prompt in the search bar and open it
 13. type in this command "pip install pywin32" and hit enter.
 14. After it is installed, go back to visual studio code and open "upload.php", Right click and choose "PHP Server: Serve Project".
-15. Then go to ports and forward the port 3000.
+15. Then go to ports by clicking the antena icon in the bottom left corner and forward the port 3000.
 
 ## You're all Set!
 That should give you an url to your private domain where you can access the html. Try uploading a document and it will start printing on the computer. Although i wouldn't recommend making it public since you are running a website on your computer there will be bound to have vulnerabilities. If you do want to make it public send the link to someone you trust.
