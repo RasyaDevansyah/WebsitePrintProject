@@ -33,7 +33,7 @@ https://youtu.be/SDJKsE_bv04?si=i7YecFsF-gFVF13L
 9. Find the file location of sumatraPDF.exe and copy the file location.
 10. Go back to visual studio code open the cloned repository.
 11. Open the file "Print.py" and paste the path to the variable sumatra_EXE_path (be sure to double up the back slash).
-12. Before running the website, search CMD in the search bar and open it
+12. Before running the website, search Command Prompt in the search bar and open it
 13. type in this command "pip install pywin32" and hit enter.
 14. After it is installed, go back to visual studio code and open "upload.php", Right click and choose "PHP Server: Serve Project".
 15. Then go to ports and forward the port 3000.
